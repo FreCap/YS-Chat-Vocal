@@ -1,0 +1,16 @@
+[ChatServer]
+chatServerDNS=127.0.0.1
+chatServerPort=8001
+
+[VoiceServer]
+thisServerDNS=127.0.0.1
+portTS=9996
+portThrift=8002
+
+[TTServer]
+TT_serverDNS=127.0.0.1
+TT_serverTCPport=10333
+TT_serverUDPport=10333
+TT_serverPassword=
+TT_User=
+TT_UserPassword=

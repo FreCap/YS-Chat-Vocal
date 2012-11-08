@@ -1,0 +1,2 @@
+ sudo apt-get install libtbb-dev libtbb-doc libtbb2 libtbb2-dbg tbb-examples
+
